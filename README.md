@@ -1,9 +1,5 @@
 # Lab: Exam Scheduling
 
-## Useful Links
- * [Course Homepage](https://williams-cs.github.io/cs136s22-www/) (with TA schedule)
- * [Lab Webpage](https://williams-cs.github.io/cs136s22-www/assets/labs/lab9/exam_scheduling.html)
-
 
 ## Repository Contents
 This repository contains the starter files for the lab scheduling lab.
